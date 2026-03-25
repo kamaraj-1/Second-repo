@@ -1,0 +1,5 @@
+Retrieval-Augmented Generation (RAG) is a technique that combines retrieval and generation to improve the quality of responses from large language models. It works by first retrieving relevant information from a knowledge base, then using that information to generate a more accurate and contextually appropriate response.
+
+The process involves three main steps: retrieval, augmentation, and generation. In the retrieval step, the system searches for documents or passages that are relevant to the user's query. These retrieved documents are then used to augment the original query or provide additional context. Finally, the augmented information is fed into a language model to generate the response.
+
+RAG is particularly useful for tasks that require up-to-date information or domain-specific knowledge that may not be fully captured in the model's training data. It helps reduce hallucinations and improves the factual accuracy of generated responses.
